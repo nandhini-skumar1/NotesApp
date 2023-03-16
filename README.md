@@ -1,5 +1,9 @@
 # React Notes App
 
+Notes app can be used to create notes, delete notes and also search notes. Notes app also comes with a dark mode feature, which you can toggle on and off.
+
+With the search bar, you can search for any note that you may need to find. Any number of notes can be added to your notes app. You can delete any note that you may not want on your notes app anymore. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![image](https://user-images.githubusercontent.com/125889718/225476723-f0ec74ce-36a9-4c5f-9e04-e6a0e07fcf61.png)
